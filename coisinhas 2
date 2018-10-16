@@ -1,0 +1,2 @@
+ rails generate scaffold Cliente nome:string idade:integer
+ rake db:migrate
